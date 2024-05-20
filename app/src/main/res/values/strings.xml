@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sport Spot</string>
+    <string name="volleyball_button">Волейбол</string>
+    <string name="basketball_button">Баскетбол</string>
+
+
+</resources>
